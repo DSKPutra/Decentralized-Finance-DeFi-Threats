@@ -133,12 +133,3 @@ James Zaki  <br />
 [DeFi Sec Page](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5UnBx4M9sg43fO76eWetena1L-4zo82lqsJuMR3uuZPe7luRnakG8jZPG0YbnSDtUOY5nVgSdwpc1/pubhtml)
 
 - Updates to the Sheet can be found in in the 'legend' section
-
-## License
-
-Software Components under Mozilla Public License 2.0 <br />
-
-CVE/SWC are licensed under their respective author's licenses. <br />
-
-Everything else is under CC-2.5-NC-ND. If you would like an exemption to this license pleasae
-contact: <sam@manifoldfinance.com>
